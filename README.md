@@ -1,4 +1,6 @@
-# Tasks
+# Code Challenges
+
+## Tasks
 
 - [x] Implement some command that you find yourself using in the bash e.g. try to implement the functionality of ls
 - [x] Write a command that fetches and saves reddit posts on /r/programming in the form of JSON file
